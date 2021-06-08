@@ -37,7 +37,7 @@ Estou sempre em busca de capacitação, já fiz vários cursos e bootcamp online
 
 
 <p>
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDuarte-3321&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruna-Duarte"  />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDuarte-3321&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruna-Duarte"  />
   
   
 </p>
