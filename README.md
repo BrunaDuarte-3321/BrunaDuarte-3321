@@ -21,7 +21,7 @@ Estou sempre em busca de capacitação, já fiz vários cursos e bootcamp online
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623180981475.png" width="250px" />
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623180981475.png" width="300px" />
 
 - 👩‍💻 Estou estudando Frontend  utilizando o framework **ReactJS**;
 - Trabalhando na *@Accenture* como Analista de Dados. 
