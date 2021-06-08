@@ -21,13 +21,13 @@ Estou sempre em busca de capacitação, já fiz vários cursos e bootcamp online
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623180981475.png" width="400px" />
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623180981475.png" width="250px" />
 
 - 👩‍💻 Estou estudando Frontend  utilizando o framework **ReactJS**;
 - Trabalhando na *@Accenture* como Analista de Dados. 
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
-  - Estudar sobre Designer; 
+  - Estudar sobre Web Designer; 
   - Assitir filmes e séries;
   - Ler livros;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
@@ -37,7 +37,7 @@ Estou sempre em busca de capacitação, já fiz vários cursos e bootcamp online
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDuarte-3321&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruna-Duarte" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDuarte-3321&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruna-Duarte"  />
   
   
 </p>
@@ -64,7 +64,7 @@ Estou sempre em busca de capacitação, já fiz vários cursos e bootcamp online
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" /> </p>
 
-<a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
+<a href="https://www.linkedin.com/in/bruna-duarte-7062451a3/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
