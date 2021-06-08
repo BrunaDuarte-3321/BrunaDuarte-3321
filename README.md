@@ -21,7 +21,7 @@ Estou sempre em busca de capacitação, já fiz vários cursos e bootcamp online
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623180981475.png" width="300px" />
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623180981475.png" width="400px" />
 
 - 👩‍💻 Estou estudando Frontend  utilizando o framework **ReactJS**;
 - Trabalhando na *@Accenture* como Analista de Dados. 
@@ -37,7 +37,7 @@ Estou sempre em busca de capacitação, já fiz vários cursos e bootcamp online
 
 
 <p>
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDuarte-3321&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruna-Duarte"  />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDuarte-3321&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruna-Duarte"  />
   
   
 </p>
