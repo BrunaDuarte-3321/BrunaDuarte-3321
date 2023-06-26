@@ -24,7 +24,7 @@ Estou sempre em busca de capacitação, já fiz vários cursos e bootcamp online
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623180981475.png" width="250px" />
 
 - 👩‍💻 Estou estudando Frontend  utilizando o framework **ReactJS**;
-- Trabalhando na *@AutoParvi* como Desenvolvedora Assistente ReactJs. 
+- Trabalhando na *@GrupoParvi* como Desenvolvedora Frontend ReactJs. 
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
   - Estudar sobre Web Designer; 
