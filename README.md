@@ -3,28 +3,35 @@
 <hr />
 
 <p align="left" >
-Me chamo <b> Bruna Duarte</b>.
+Olá! Me chamo <b> Bruna Duarte</b>.
 </p>
 
 <p align="left" >
-Sou uma apaixonada pela TI. Passei um bom tempo tentando me achar profissionalmente, 
-  quando certo dia, trabalhando como motorista de aplicativo um passageiro me apresentou 
-  a essa vasto mundo da área de programação. Fiquei impressionada e super animada, não pensei 2x dei logo um match rsrsrs.<br /&gt;
-Estou sempre em busca de capacitação, já fiz vários cursos e bootcamp online e estou prestes a começar outro curso incrível pela @GamaAcademy para me tornar uma <b&gt;Desenvolvedora Full-Stack </b>
+Sou desenvolvedora com mais de 4 anos de experiência em Frontend e 1 ano atuando também como Backend. 
+  Minha jornada na programação começou de forma inusitada, mas desde então me encontrei completamente na área de tecnologia e nunca mais parei!</b>
+  Sou movida por desafios e apaixonada por construir interfaces intuitivas, performáticas e com código limpo. Aqui no GitHub compartilho projetos, estudos e contribuições que mostram um pouco da minha evolução e dedicação na área.
 </p>
-
 
 </p>
 </p>
 
 <hr />
 
+**Atualmente trabalho com:**
+
+- 🧠 Frontend:
+  - ReactJS, TypeScript, Styled Components, Material UI, React Query, Axios
+- ⚙️ Backend:
+  - Node.js, MySQL, API REST, Docker
+- 🛠️ Metodologias e práticas:
+  -   Scrum, Git Flow
+
+  <hr />
+
 **Meus interesses pessoais:**
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623180981475.png" width="250px" />
-
-- 👩‍💻 Estou estudando Frontend  utilizando o framework **ReactJS**;
-- Trabalhando na *@GrupoParvi* como Desenvolvedora Frontend ReactJs. 
+ 
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
   - Estudar sobre Web Designer; 
@@ -32,9 +39,6 @@ Estou sempre em busca de capacitação, já fiz vários cursos e bootcamp online
   - Ler livros;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para bruna.duart321@gmail.com
-
-
-
 
 <p>
   <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDuarte-3321&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruna-Duarte"  />
