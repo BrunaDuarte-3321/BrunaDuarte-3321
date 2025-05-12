@@ -2,14 +2,10 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1>
 <hr />
 
-<p align="left" >
-Olá! Me chamo <b> Bruna Duarte</b>.
-</p>
-
 ## 👩‍💻 Sobre mim
 
 <p align="left" >
-Olá! Me chamo **Bruna Duarte**, sou desenvolvedora com mais de 4 anos de experiência em Frontend e 1 ano também atuando no Backend.
+Olá! Me chamo Bruna Duarte, sou desenvolvedora com mais de 4 anos de experiência em Frontend e 1 ano também atuando no Backend.
 
 Minha jornada na programação começou de forma inusitada, mas desde então me encontrei completamente na área de tecnologia e nunca mais parei! Sou movida por desafios e apaixonada por desenvolver interfaces intuitivas, performáticas e com código limpo.
 
